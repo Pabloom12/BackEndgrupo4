@@ -13,7 +13,7 @@ app.use(express.json());
 const articulos = [
   {
     id: 1,
-    titulo: "Titulo del primer artículo",
+    titulo: "Torta Frita",
 
     autor: "Nombre Apellido",
     categoria: "Categoria",
@@ -21,21 +21,21 @@ const articulos = [
   },
   {
     id: 2,
-    titulo: "Titulo del segundo artículo",
+    titulo: "Chivito",
     autor: "Nombre Apellido",
     categoria: "Categoria",
     descripcion: "Descripcion breve del artículo.",
   },
   {
     id: 3,
-    titulo: "Titulo del tercer artículo",
+    titulo: "Asado",
     autor: "Nombre Apellido",
     categoria: "Categoria",
     descripcion: "Descripcion breve del artículo.",
   },
   {
     id: 4,
-    titulo: "Titulo del cuarto artículo",
+    titulo: "Alfajor",
     autor: "Nombre Apellido",
     categoria: "Categoria",
     descripcion: "Descripcion breve del artículo.",
@@ -57,7 +57,12 @@ app.get("/articulos/:id", (req, res) => {
 });
 // POST /articulos → crea un artículo nuevo
 app.post("/articulos", (req, res) => {
-  const { titulo, autor, categoria, descripcion } = req.body;
+  const {
+    titulo = "Prueba",
+    autor = "Autor de prueba",
+    categoria = "Categoria de prueba",
+    descripcion = "Descripcion de prueba",
+  } = req.body;
 
   if (!titulo || !autor || !descripcion) {
     return res.status(400).json({
