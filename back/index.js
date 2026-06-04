@@ -14,29 +14,28 @@ const articulos = [
   {
     id: 1,
     titulo: "Torta Frita",
-
-    autor: "Nombre Apellido",
+    autor: "lusmila",
     categoria: "Categoria",
     descripcion: "Descripcion breve del artículo.",
   },
   {
     id: 2,
     titulo: "Chivito",
-    autor: "Nombre Apellido",
+    autor: "martha",
     categoria: "Categoria",
     descripcion: "Descripcion breve del artículo.",
   },
   {
     id: 3,
     titulo: "Asado",
-    autor: "Nombre Apellido",
+    autor: "Santiago",
     categoria: "Categoria",
     descripcion: "Descripcion breve del artículo.",
   },
   {
     id: 4,
     titulo: "Alfajor",
-    autor: "Nombre Apellido",
+    autor: "pablo Ortiz",
     categoria: "Categoria",
     descripcion: "Descripcion breve del artículo.",
   },
