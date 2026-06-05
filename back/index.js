@@ -39,6 +39,13 @@ const articulos = [
     categoria: "Categoria",
     descripcion: "Descripcion breve del artículo.",
   },
+  {
+    id: 5,
+    titulo: "Mate",
+    autor: "Agustín Abreu",
+    categoria: "Categoria de prueba",
+    descripcion: "Descripcion breve del artículo.",
+  },
 ];
 // ── RUTAS ────────────────────────────────────────────────
 // GET /articulos → devuelve todos los artículos
