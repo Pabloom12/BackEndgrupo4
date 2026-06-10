@@ -20,7 +20,7 @@ const articulos = [
   },
   {
     id: 2,
-    titulo: "Chivito",
+    titulo: "Postre Chajá",
     autor: "Martha Mesa",
     categoria: "Categoria",
     descripcion: "Descripcion breve del artículo.",
@@ -69,7 +69,7 @@ app.post("/articulos", (req, res) => {
     categoria = "Categoria de prueba",
     descripcion = "Descripcion de prueba",
   } = req.body;
-
+  // Validar campos obligatorios
   if (!titulo || !autor || !descripcion) {
     return res.status(400).json({
       error: "Los campos título, autor y descripción son obligatorios",
