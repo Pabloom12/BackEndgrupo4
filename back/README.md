@@ -1,3 +1,7 @@
+Nombre de la revista: "Sabor Oriental"
+
+Integrantes: - Pablo Ortiz - Marta Mesa - Santiago Narez - Lusmila Lanuse - Agustín Abreu
+
 # Revista Digital — Back End
 
 API REST con Node.js y Express.
