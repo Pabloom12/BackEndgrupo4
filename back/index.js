@@ -34,10 +34,11 @@ const articulos = [
   },
   {
     id: 4,
-    titulo: "Alfajor",
+    titulo: "Una dulce historia que atravesó el océano.",
     autor: "Pablo Ortiz",
-    categoria: "Categoria",
-    descripcion: "Descripcion breve del artículo.",
+    categoria: "Alfajor",
+    descripcion:
+      "Existen alimentos que parecen sencillos, casi cotidianos pero que guardan una historia mucho más profunda de lo que se ve a simple vista. El alfajor es uno de ellos, está presente tanto en el kiosco de la esquina como en la merienda de la escuela y también en la vida diaria, y sin embargo no es una golosina más. Detrás de su forma redonda y su relleno dulce, existe un largo recorrido histórico y cultural que empezó lejos de Uruguay, navegando por siglos y océanos hasta el día de hoy que se convirtió en parte de nuestra identidad.",
   },
   {
     id: 5,
