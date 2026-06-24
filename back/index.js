@@ -25,7 +25,8 @@ const articulos = [
     titulo: "Postre Chajá",
     autor: "Martha Mesa",
     categoria: "Categoria",
-    descripcion: "Descripcion breve del artículo.",
+    descripcion:
+      "Su origen se remonta a Paysandú, una ciudad clave en la identidad gastronómica uruguaya. Fue creado el 27 de abril de 1927 por Orlando Castellano, propietario de la Confitería Las Familias. A mediados de los años 20, Don Orlando hacía lo que podía  para sacar adelante a su familia con trabajos esporádicos en la ciudad hasta que descubrió su pasión por la repostería. Castellano buscaba concebir un dulce que pudiera resistir fuera de la heladera y que pudiera transportarse en una época sin refrigeración doméstica ni pasteurización generalizada; nació como una solución de pastelería inteligente para durar, viajar y conservar su atractivo.",
   },
   {
     id: 3,
