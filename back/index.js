@@ -2,12 +2,14 @@
 require("dotenv").config();
 const express = require("express");
 const cors = require("cors");
+const path = require("path");
 const app = express();
 const PORT = process.env.PORT || 3000;
 const CORS_ORIGIN = process.env.CORS_ORIGIN || "http://127.0.0.1:5500";
 // ── MIDDLEWARES ──────────────────────────────────────────
 app.use(cors({ origin: CORS_ORIGIN }));
 app.use(express.json());
+app.use(express.static(path.join(__dirname, "public")));
 // ── DATOS ────────────────────────────────────────────────
 // Reemplazar con los artículos reales del grupo
 const articulos = [
@@ -34,6 +36,7 @@ const articulos = [
   },
   {
     id: 4,
+    imagen: "imgkiosco.jpg",
     titulo: "Una dulce historia que atravesó el océano.",
     autor: "Pablo Ortiz",
     categoria: "Alfajor",
