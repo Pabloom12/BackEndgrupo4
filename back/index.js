@@ -22,6 +22,8 @@ const articulos = [
   },
   {
     id: 2,
+    imagen: "imgcga.png",
+
     titulo: "Postre Chajá",
     autor: "Martha Mesa",
     categoria: "Categoria",
