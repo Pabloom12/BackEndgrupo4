@@ -59,6 +59,7 @@ const articulos = [
   },
   {
     id: 3,
+    imagen: "imgkiosco.jpg",
     titulo: "400 AÑOS DE ASADO EN URUGUAY",
     autor: "Santiago Narez",
     categoria: "Asado",
@@ -108,7 +109,7 @@ const articulos = [
     autor: "Pablo Ortiz",
     categoria: "Alfajor",
     descripcion: `
-<p> PARRAFO 1</p>
+<p> PARRAFO 1 </p>
 <p> PARRAFO 2 </p>
 <p> PARRAFO 3 </p>
 
@@ -129,7 +130,7 @@ const articulos = [
     autor: "Agustín Abreu",
     categoria: "Categoria de prueba",
     descripcion: `
-<p> PARRAFO 1</p>
+<p> PARRAFO 1 </p>
 <p> PARRAFO 2 </p>
 <p> PARRAFO 3 </p>
 
