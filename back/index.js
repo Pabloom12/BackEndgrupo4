@@ -59,6 +59,7 @@ const articulos = [
   },
   {
     id: 3,
+    imagen: "asado.webp",
     titulo: "400 AÑOS DE ASADO EN URUGUAY",
     autor: "Santiago Narez",
     categoria: "Asado",
