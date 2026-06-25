@@ -41,9 +41,6 @@ const articulos = [
     titulo: "Postre Chajá",
     autor: "Martha Mesa",
     categoria: "Categoria",
-<<<<<<< HEAD
-    descripcion: `Su origen se remonta a Paysandú, una ciudad clave en la identidad gastronómica uruguaya. Fue creado el 27 de abril de 1927 por Orlando Castellano, propietario de la Confitería Las Familias. A mediados de los años 20, Don Orlando hacía lo que podía  para sacar adelante a su familia con trabajos esporádicos en la ciudad hasta que descubrió su pasión por la repostería. Castellano buscaba concebir un dulce que pudiera resistir fuera de la heladera y que pudiera transportarse en una época sin refrigeración doméstica ni pasteurización generalizada; nació como una solución de pastelería inteligente para durar, viajar y conservar su atractivo.`,
-=======
     descripcion: `
 <p> PARRAFO 1</p>
 <p> PARRAFO 2 </p>
@@ -59,7 +56,6 @@ const articulos = [
 
 </section>
 `,
->>>>>>> b6013a4bb0521d496040df7ef5d92bd11d1dd0d1
   },
   {
     id: 3,
@@ -112,14 +108,29 @@ const articulos = [
     autor: "Pablo Ortiz",
     categoria: "Alfajor",
     descripcion: `
-<p> PARRAFO 1</p>
-<p> PARRAFO 2 </p>
-<p> PARRAFO 3 </p>
-
+<p>Existen alimentos que parecen sencillos, casi cotidianos pero que guardan una historia mucho más profunda de lo que se ve a simple vista. El alfajor es uno de ellos, está presente tanto en el kiosco de la esquina como en la merienda de la escuela y también en la vida diaria, y sin embargo no es una golosina más. Detrás de su forma redonda y su relleno dulce, existe un largo recorrido histórico y cultural que empezó lejos de Uruguay, navegando por siglos y océanos hasta el día de hoy que se convirtió en parte de nuestra identidad.
+</p>
+<p>El origen del alfajor suele vincularse con la tradición árabe que pasó a la península ibérica  durante la presencia musulmana en España. Algunas fuentes comentan que su nombre proviene del árabe hispano referenciando al relleno  “al hasú“ (palabra proveniente del árabe andalusí ) un rasgo que sigue siendo esencial al día de hoy.</p>
+<p> Con el paso de los años esta preparación fue cambiando, adaptando ingredientes y gustos hasta llegar a América, donde adquirió nuevas formas. Más que una receta fija el alfajor parece ser una prueba de que las tradiciones sobreviven porque pueden transformarse y evolucionar logrando transportarnos varios siglos al pasado
+</p>
+<p> En América latina el alfajor se transformó de manera diferente según cada región, pero en Uruguay encontró una presencia fuerte dejando de ser solamente un dulce o golosina para pasar a ser un producto de la vida cotidiana. No es casualidad que la mayoría  lo identifiquen como uno de los productos típicos del país ni que sea considerado tan frecuentemente como regalo cuando alguien viaja hacia otros destinos. Este gesto no solo significa compartir algo rico sino transmitir una experiencia, un lugar y una pequeña y dulce parte de nuestra cultura local.
+ </p>
+<p> Dentro de la historia uruguaya tiene un lugar importante la tradicional marca Las Sierras de Minas, fundada en la ciudad de Minas en 1953 por Conrado Cedrés. Varias fuentes la destacan como la primera fábrica de alfajores del Uruguay la cual tuvo peso en la construcción de la identidad del alfajor a nivel local. Tanto así que en Lavalleja existe un museo dedicado enteramente al alfajor, reforzando la idea de que no se trata únicamente de un producto comercial sino de un objeto cultural que merece ser conservado y recordado. Cuando un alimento llega a ese punto deja de pertenecer al ámbito del consumo y pasa a formar parte de la memoria colectiva.
+ </p>
+<p> Esa importancia no se explica únicamente por la antigüedad de su historia. También se entiende por la manera que el alfajor acompaña escenas comunes de la vida diaria. Puede aparecer en una merienda compartida, en una parada de ruta, en una bolsa de regalos o en una charla o debate sobre cuál es el mejor o el perfecto. Su valor no está solo en el sabor sino en todo lo que lo rodea como la costumbre, el cariño, el recuerdo o hasta la expectativa de probar uno distinto. Por esto el alfajor es uno de esos objetos cotidianos que sin proponérselo termina diciendo mucho sobre la forma en que una sociedad vive y transmite sus hábitos. El paso del tiempo hizo que estas costumbres dieran a luz un mercado muy variado. La oferta actual nos permite saborear la calidez de una receta artesanal o experimentar con baños de reposteria que estallan en colores crujientes.Cada persona se enfrenta entonces a un abanico de posibilidades que muta constantemente transformando la visita al super o al kiosco en una coreografía silenciosa de selección </p>
+<p> PARRAFO 7 </p>
+<p> PARRAFO 8 </p>
+<p> PARRAFO 9 </p>
 <section class="article-section article-sources">
 
 <h2> FUENTES DE INFORMACIÓN </h2>
 
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
 <ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
 <ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
 <ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
