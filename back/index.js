@@ -15,21 +15,59 @@ app.use(express.static(path.join(__dirname, "public")));
 const articulos = [
   {
     id: 1,
-    titulo: "Torta Frita",
-    autor: "Lusmila",
+    titulo: "Torta frita un sabor que une a los uruguayos",
+    autor: "Lusmila Lanusse",
     categoria: "Categoria",
     descripcion: `
-<p> PARRAFO 1</p>
-<p> PARRAFO 2 </p>
-<p> PARRAFO 3 </p>
+<p> Cuando nombramos a la torta frita es imposible no pensar en una tarde lluviosa, con unos mates y por supuesto compartiendo con amigos o familia.
+
+</p>
+<p>Estas forman parte de nuestra identidad y nuestras costumbres creando recuerdos, ya sea de las charlas que se dan mientras las compartimos,
+De su proceso jugando con el harina con un niño de nuestra familia mientras las hacemos, o comiendo una en algún puestito de la calle con amigos a la salida del liceo.
+</p>
+<p> Se cree que las tortas fritas llegaron a nuestro país gracias a los inmigrantes Suizos, Italianos, Alemanes y Españoles. Ellos trajeron consigo, recetas y costumbres que con el tiempo se fueron haciendo parte de la nuestra.
+</p>
+<p> Aunque no se sabe exactamente cuál es su origen, muchos aseguran que tienen relación con una receta alemana llamada “Kreppel”. 
+</p>
+<p>En uruguay existe una fuerte relación entre las tortas fritas y  los días de lluvia.
+Seguramente, la mayoría de la población conozca el “quedan más ricas con agua de lluvia”.
+ </p>
+<p>Debido a que una de las leyendas más conocidas, cuenta que  las mujeres de las colonias inmigrantes utilizaban agua de lluvia para preparar la masa. 
+También dicen que los gauchos de la banda oriental aprovechaban el agua de la lluvia para cocinarlas cuando estaban en el campo. 
+ </p>
+<p>Sea que estas versiones 	fueran ciertas o no, esta costumbre existe hasta hoy y cada vez que hay un dia nublado automáticamente nos llega esa idea de hacer unas tortas para acompañar el mate
+ </p>
+<p>
+Su receta es muy fácil
+Se necesita harina, levadura, agua tibia, sal y grasa para freírlas
+ </p>
+<p> A lo largo del tiempo fueron apareciendo nuevas versiones. 
+Ya no se comen solas, ahora además de las clásicas es común encontrar tortas fritas con azucar, dulce de leche, chocolate e incluso queso cheddar. 
+Estos ingredientes permiten innovar un poco sin dejar de lado su receta y la forma tradicional de comerlas.  
+</p>
+<p> La importancia y costumbre de ellas es tan grande que desde el año 2002 se realiza en canelones el festival de la torta frita. 
+Se trata de un evento que reúne a muchas personas para disfrutar de música, actividades y por supuesto de su gran protagonista como alimento para compartir. 
+Es una oportunidad para pasar un rato en familia y celebrar una tradición que aún sigue viva.
+</p>
+<p> Aunque existen en otros países de sudamérica e incluso en algunas partes de Europa, en Uruguay llevan un significado especial. No son solo una costumbre sino también una excusa para reunirse, conversar y disfrutar de pequeños momentos. Por eso cada vez que llueve y alguien pone el agua para el mate mientras prepara unas tortas.
+Una costumbre que ya forma parte del uruguayo.
+</p>
+<p>Reflexión: Una receta tan simple se volvió parte de una gran costumbre. 
+Que a pesar de su sencillez tienen un sabor único y son ideales para los días fríos y una excusa para compartir un lindo momento. 
+ </p>
 
 <section class="article-section article-sources">
 
 <h2> FUENTES DE INFORMACIÓN </h2>
 
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://amec.com.uy/blog/cultura/el-origen-de-la-torta-frita/">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://www.clarin.com/informacion-general/fiesta-nacional-torta-frita-2026-conseguir-entradas_0_8kUMtzGhMa.html">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://www.cocina-uruguaya.com/articulos/los-datos-que-no-conocias-version-torta-frita-uruguaya">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://www.gub.uy/ministerio-turismo/comunicacion/calendario-actividades/13o-fiesta-torta-frita">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://grupormultimedio.com/las-torta-fritas-una-tradicion-uruguaya-id138336/">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://www.todouruguay.net/lluvia-mate-y-tortas-fritas/">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://turismo.imcanelones.gub.uy/visita-canelones/que-hacer/fiestas/fiesta-torta-frita">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://cousa.com/tortas-fritas/">NOMBRE DE LA FUENTE</a><p></li></ul>
 
 </section>
 `,
