@@ -41,8 +41,21 @@ const articulos = [
     titulo: "Postre Chajá",
     autor: "Martha Mesa",
     categoria: "Categoria",
-    descripcion:
-      "Su origen se remonta a Paysandú, una ciudad clave en la identidad gastronómica uruguaya. Fue creado el 27 de abril de 1927 por Orlando Castellano, propietario de la Confitería Las Familias. A mediados de los años 20, Don Orlando hacía lo que podía  para sacar adelante a su familia con trabajos esporádicos en la ciudad hasta que descubrió su pasión por la repostería. Castellano buscaba concebir un dulce que pudiera resistir fuera de la heladera y que pudiera transportarse en una época sin refrigeración doméstica ni pasteurización generalizada; nació como una solución de pastelería inteligente para durar, viajar y conservar su atractivo.",
+    descripcion: `
+<p> PARRAFO 1</p>
+<p> PARRAFO 2 </p>
+<p> PARRAFO 3 </p>
+
+<section class="article-section article-sources">
+
+<h2> FUENTES DE INFORMACIÓN </h2>
+
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+
+</section>
+`,
   },
   {
     id: 3,
@@ -94,15 +107,42 @@ const articulos = [
     titulo: "Una dulce historia que atravesó el océano.",
     autor: "Pablo Ortiz",
     categoria: "Alfajor",
-    descripcion:
-      "Existen alimentos que parecen sencillos, casi cotidianos pero que guardan una historia mucho más profunda de lo que se ve a simple vista. El alfajor es uno de ellos, está presente tanto en el kiosco de la esquina como en la merienda de la escuela y también en la vida diaria, y sin embargo no es una golosina más. Detrás de su forma redonda y su relleno dulce, existe un largo recorrido histórico y cultural que empezó lejos de Uruguay, navegando por siglos y océanos hasta el día de hoy que se convirtió en parte de nuestra identidad.",
+    descripcion: `
+<p> PARRAFO 1</p>
+<p> PARRAFO 2 </p>
+<p> PARRAFO 3 </p>
+
+<section class="article-section article-sources">
+
+<h2> FUENTES DE INFORMACIÓN </h2>
+
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+
+</section>
+`,
   },
   {
     id: 5,
     titulo: "Mate",
     autor: "Agustín Abreu",
     categoria: "Categoria de prueba",
-    descripcion: "Descripcion breve del artículo.",
+    descripcion: `
+<p> PARRAFO 1</p>
+<p> PARRAFO 2 </p>
+<p> PARRAFO 3 </p>
+
+<section class="article-section article-sources">
+
+<h2> FUENTES DE INFORMACIÓN </h2>
+
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+
+</section>
+`,
   },
 ];
 // ── RUTAS ────────────────────────────────────────────────
