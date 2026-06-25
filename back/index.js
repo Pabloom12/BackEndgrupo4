@@ -133,23 +133,23 @@ const articulos = [
 <p> Dentro de la historia uruguaya tiene un lugar importante la tradicional marca Las Sierras de Minas, fundada en la ciudad de Minas en 1953 por Conrado Cedrés. Varias fuentes la destacan como la primera fábrica de alfajores del Uruguay la cual tuvo peso en la construcción de la identidad del alfajor a nivel local. Tanto así que en Lavalleja existe un museo dedicado enteramente al alfajor, reforzando la idea de que no se trata únicamente de un producto comercial sino de un objeto cultural que merece ser conservado y recordado. Cuando un alimento llega a ese punto deja de pertenecer al ámbito del consumo y pasa a formar parte de la memoria colectiva.
  </p>
 <p> Esa importancia no se explica únicamente por la antigüedad de su historia. También se entiende por la manera que el alfajor acompaña escenas comunes de la vida diaria. Puede aparecer en una merienda compartida, en una parada de ruta, en una bolsa de regalos o en una charla o debate sobre cuál es el mejor o el perfecto. Su valor no está solo en el sabor sino en todo lo que lo rodea como la costumbre, el cariño, el recuerdo o hasta la expectativa de probar uno distinto. Por esto el alfajor es uno de esos objetos cotidianos que sin proponérselo termina diciendo mucho sobre la forma en que una sociedad vive y transmite sus hábitos. El paso del tiempo hizo que estas costumbres dieran a luz un mercado muy variado. La oferta actual nos permite saborear la calidez de una receta artesanal o experimentar con baños de reposteria que estallan en colores crujientes.Cada persona se enfrenta entonces a un abanico de posibilidades que muta constantemente transformando la visita al super o al kiosco en una coreografía silenciosa de selección </p>
-<p> PARRAFO 7 </p>
-<p> PARRAFO 8 </p>
-<p> PARRAFO 9 </p>
+<p> Por eso hablar del origen del alfajor es hablar más que de un dulce o postre, es hablar de un producto que nació en otro contexto, cruzó fronteras se transformó con el tiempo y encontró en Uruguay una manera propia de permanecer y ser parte de la propia identidad. Es hablar de una tradición que sigue viva no solo por que se sigue fabricando y consumiendo todos los días, sino porque continúa ocupando un lugar en la memoria colectiva, en las costumbres. Tal vez eso nos demuestra su verdadero valor y nos invita a preguntarnos si algunas cosas aparentemente pequeñas pueden guardar dentro de sí una historia mucho más grande de lo que parece.</p>
+
+
 <section class="article-section article-sources">
 
-<h2> FUENTES DE INFORMACIÓN </h2>
+<h2> Bibliografía </h2>
 
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-
+ <ul><li><p><a href="https://es.wikipedia.org/wiki/Alfajor_(Latinoam%C3%A9rica)">Alfajor (Latinoamérica) - Wikipedia</a><p></li></ul>
+ <ul><li><p><a href="https://alfajoresdeluruguay.com.uy/">Alfajores del Uruguay
+</a><p></li>
+<li><p><a href="https://www.clarin.com/gourmet/origen-alfajor-hace-pais_0_CisPblcXap.html">El verdadero origen del alfajor: dónde se inventó y cómo se hace en cada país - Clarín</a><p></li></ul>
+<ul><li><p><a href="https://amec.uy/blog/cultura/el-origen-de-los-alfajores/">El origen de los Alfajores - Amec</a><p></li></ul>
+<ul><li><p><a href="https://mundialdelalfajor.com/historia-del-alfajor/">Historia del alfajor - Mundial del Alfajor</a><p></li></ul>
+<ul><li><p><a href="https://www.elpais.com.uy/el-empresario/la-historia-detras-del-primer-alfajor-uruguayo-un-amor-vision-comercial-y-un-producto-que-perduro-70-anos">La historia detrás del primer alfajor uruguayo - El País</a><p></li></ul>
+<ul><li><p><a href="https://eventurismo.com.uy/la-importancia-del-alfajor-como-presente-para-el-regreso-del-turista-y-su-identificacion-con-la-localidad/">La importancia del alfajor como presente - Eventurismo</a><p></li></ul>
+<ul><li><p><a href="https://lavalleja.uy/bienestar-y-espiritualidad/museo-del-alfajor/">Museo del Alfajor - Lavalleja</a><p></li></ul>
+<ul><li><p><a href="https://uruguaynatural.com/es/experiences/una-dulce-tentacion-para-deleitar-en-uruguay-el-alfajor/">Una dulce tentación para deleitar en Uruguay: el alfajor - Uruguay Natural</a><p></li></ul>
 </section>
 `,
   },
