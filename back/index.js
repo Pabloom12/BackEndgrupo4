@@ -18,7 +18,21 @@ const articulos = [
     titulo: "Torta Frita",
     autor: "Lusmila",
     categoria: "Categoria",
-    descripcion: "Descripcion breve del artículo.",
+    descripcion: `
+<p> PARRAFO 1</p>
+<p> PARRAFO 2 </p>
+<p> PARRAFO 3 </p>
+
+<section class="article-section article-sources">
+
+<h2> FUENTES DE INFORMACIÓN </h2>
+
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+
+</section>
+`,
   },
   {
     id: 2,
