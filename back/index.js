@@ -41,9 +41,6 @@ const articulos = [
     titulo: "Postre Chajá",
     autor: "Martha Mesa",
     categoria: "Categoria",
-<<<<<<< HEAD
-    descripcion: `Su origen se remonta a Paysandú, una ciudad clave en la identidad gastronómica uruguaya. Fue creado el 27 de abril de 1927 por Orlando Castellano, propietario de la Confitería Las Familias. A mediados de los años 20, Don Orlando hacía lo que podía  para sacar adelante a su familia con trabajos esporádicos en la ciudad hasta que descubrió su pasión por la repostería. Castellano buscaba concebir un dulce que pudiera resistir fuera de la heladera y que pudiera transportarse en una época sin refrigeración doméstica ni pasteurización generalizada; nació como una solución de pastelería inteligente para durar, viajar y conservar su atractivo.`,
-=======
     descripcion: `
 <p> PARRAFO 1</p>
 <p> PARRAFO 2 </p>
@@ -59,7 +56,6 @@ const articulos = [
 
 </section>
 `,
->>>>>>> b6013a4bb0521d496040df7ef5d92bd11d1dd0d1
   },
   {
     id: 3,
@@ -129,21 +125,39 @@ const articulos = [
   },
   {
     id: 5,
-    titulo: "Mate",
+    imagen: "matebanner2.jpg",
+    titulo: "El origen del mate",
     autor: "Agustín Abreu",
-    categoria: "Categoria de prueba",
+    categoria: "Mate",
     descripcion: `
-<p> PARRAFO 1</p>
-<p> PARRAFO 2 </p>
-<p> PARRAFO 3 </p>
+<p> Todo aquel que desee saber más sobre la cultura uruguaya, aunque no lo busque, lo va a encontrar bajo el brazo de algún transeúnte uruguayo promedio o en internet, al buscar información sobre costumbres uruguayas, ya que el mate siempre está a la vista</p>
+<p> Antes de entrar en detalles sobre el origen del mate, reconocido como uno, o incluso el mayor representante de la cultura criolla, es necesario que hablemos sobre qué es este emblemático brebaje. El mate es una infusión de yerba, de la cual existen diferentes tipos: yerba orgánica, saborizada, barbacuá, yerba con palo y yerba despalada son algunos de ellos. El mate se prepara en un recipiente al que se le da el nombre de "mate", donde se coloca la yerba y el agua caliente. El recipiente más común es el de calabaza, pero hoy en día existe una gran variedad de materiales. La infusión se consume con una bombilla.
+ </p>
+<p> El ritual de cebar mate consiste en compartirlo, pasándolo de persona en persona, como si todos estuvieran formando una ronda. Cuando el cebador (quien llena de agua caliente la calabaza) termina su primer mate, vuelve a llenarlo y lo pasa a la siguiente persona del círculo. Cada integrante bebe todo el contenido de una vez y devuelve el mate al cebador, quien lo vuelve a llenar y lo pasa al siguiente, continuando la rotación. A medida que avanza la sesión, el sabor de la yerba va disminuyendo, lo que se conoce como "mate lavado". En ese momento, el cebador mueve con cuidado la bombilla para aprovechar la yerba fresca y seca, o reemplaza la yerba por completo para continuar la ronda. </p>
+<p> Ahora que ya hablamos sobre el qué es y el cómo se consume, podemos comenzar a conocer sus orígenes. Su historia se remonta a tiempos anteriores a la llegada de los españoles a América del Sur, aunque estos fueron muy importantes en su difusión. En un principio, las autoridades religiosas prohibieron a los nativos tomar mate, considerando su consumo como una actividad improductiva y herética. Sin embargo, no tuvieron éxito, ya que la costumbre se instaló rápidamente, incluso entre las poblaciones criollas de campaña y en el resto de la antigua Banda Oriental, territorio que hoy corresponde al Uruguay.
+ </p>
+<p> Otros que tuvieron un papel clave fueron los jesuitas, quienes reconocieron rápidamente el valor económico y estimulante de la yerba mate. Además de adoptar su consumo, impulsaron su cultivo organizado en las reducciones jesuíticas, donde implementaron técnicas agrícolas más sistemáticas. Gracias a ello, la yerba mate dejó de ser un recurso silvestre para convertirse en un producto cultivado y comercializable, lo que permitió su circulación por distintas regiones del Virreinato del Río de la Plata y facilitó su expansión hacia sectores no indígenas de la población. </p>
+<p> Pero los primeros en consumir la yerba mate e iniciar esta tradición fueron los guaraníes, que se asentaban en lo que hoy es Paraguay, el litoral argentino, el sur de Brasil y el norte de Uruguay. Ellos utilizaban las hojas de Ilex paraguariensis para preparar una bebida energizante y medicinal. Consumían la infusión en cuencos naturales y con bombillas rudimentarias, otorgándole un sentido espiritual y comunitario; para ellos, ya era un acto de hospitalidad y de unión.
+ </p>
+<p> Dentro de la cultura guaraní existe una leyenda. Yasí, la diosa Luna, y Araí, la diosa Nube, bajaron a la Tierra convertidas en jóvenes para conocer la selva. Durante su viaje fueron atacadas por un yaguareté (jaguar), pero un cazador las salvó y las llevó a su humilde hogar, donde su familia las recibió con gran generosidad, compartiendo incluso su último alimento. Conmovida por la valentía y la bondad de la familia, Yasí decidió recompensarlos. Una noche sembró unas semillas mágicas que dieron origen a la planta de la yerba mate, llamada caá. Luego les enseñó a preparar el primer mate y declaró que esta planta sería un símbolo de amistad para todos los hombres. Además, otorgó a la hija del cazador la misión de proteger la yerba mate. Tras la muerte de sus padres, la joven se convirtió en Caá Yarí, la deidad guardiana de los yerbales, encargada de cuidar las plantas y velar por quienes trabajan con ellas.
+ </p>
+ <img src="front/imagenes/mateleyenda.jpg" class="imgmate" alt="Mate"/>
+<p> Más allá de explicar el origen de la yerba mate desde una perspectiva mitológica, la leyenda guaraní transmite una enseñanza sobre los valores que sostienen la convivencia dentro de las comunidades. La planta nace como una recompensa a la hospitalidad y la generosidad de una familia que, aunque tenía muy poco, decidió compartir lo que tenía con dos personas desconocidas.
+ </p>
+<p> No es raro que el mate, surgido de ese acto de bondad, haya terminado convirtiéndose en un símbolo de amistad y encuentro que nos acompaña hasta hoy. Esta idea invita a una reflexión que sigue siendo vigente. Aunque hoy vivimos rodeados por una gran cantidad de estímulos y por la necesidad de que todo ocurra con rapidez, compartir un mate continúa siendo una forma de detenerse, conversar con quienes forman parte de nuestra vida y construir vínculos.
+ </p>
+<p> Quizás allí radique una de las razones de su permanencia en la cultura uruguaya: el mate no representa únicamente una bebida, sino también una manera de entender las relaciones humanas, basada en el intercambio, la confianza y la compañía. En Uruguay, llevar el termo y el mate bajo el brazo forma parte de la identidad nacional. Más allá de ser una infusión o de sus propiedades, acompaña tanto conversaciones profundas como charlas cotidianas, largas jornadas de trabajo o estudio e, incluso, crea momentos de socialización entre familiares, amigos y hasta compatriotas desconocidos, demostrando día a día que todavía existen costumbres capaces de unir a las personas.
+ </p>
+
 
 <section class="article-section article-sources">
 
 <h2> FUENTES DE INFORMACIÓN </h2>
 
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://cuentos.rll.lsa.umich.edu/blog/2018/03/22/leyenda-de-la-yerba-mate-leyenda-guarani/">Leyenda de guaraní</a><p></li></ul>
+<ul><li><p><a href="https://estudyando.com/historia-del-mate-origen-y-expansion-en-sudamerica/">Expansión en sudamérica</a><p></li></ul>
+<ul><li><p><a href="https://www.nationalgeographicla.com/historia/2023/12/cual-es-el-origen-de-la-yerba-mate-segun-la-historia">Orígen de la yerba mate</a><p></li></ul>
+<ul><li><p><a href="https://peakd.com/hive-156509/@delcarmat/the-legend-of-the-yerba-mate-la-leyenda-de-la-yerba-mate">Imagen de la leyenda</a><p></li></ul>
 
 </section>
 `,
