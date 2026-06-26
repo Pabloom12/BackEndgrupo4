@@ -42,23 +42,38 @@ const articulos = [
     autor: "Martha Mesa",
     categoria: "Categoria",
     descripcion: `
-<p> PARRAFO 1</p>
-<p> PARRAFO 2 </p>
-<p> PARRAFO 3 </p>
+<p> El chajá es un postre típico de la gastronomía uruguaya y un verdadero símbolo del país. Se trata de un dulce, sabor delicado y personal inconfundible que ha construido una memoria afectiva colectiva, ocupando un lugar casi ritual en cumpleaños, reuniones familiares y celebraciones. Este exquisito postre nacional se vende además en Argentina, Brasil, Paraguay, Estados Unidos y otras partes del mundo donde hay uruguayos.
+</p>
+<p> Su origen se remonta a Paysandú, una ciudad clave en la identidad gastronómica uruguaya. Fue creado el 27 de abril de 1927 por Orlando Castellano, propietario de la Confitería Las Familias. A mediados de los años 20, Don Orlando hacía lo que podía  para sacar adelante a su familia con trabajos esporádicos en la ciudad hasta que descubrió su pasión por la repostería. Castellano buscaba concebir un dulce que pudiera resistir fuera de la heladera y que pudiera transportarse en una época sin refrigeración doméstica ni pasteurización generalizada; nació como una solución de pastelería inteligente para durar, viajar y conservar su atractivo. 
+ </p>
+<p> Debe su nombre indígena de origen guaraní al chajá, un ave que habita en las zonas centro y sur de América del Sur y es abundante en Paysandú. Un amigo de la familia le pidió a Don Orlando ese postre “lleno de plumas y de cuerpo liviano” en referencia al merengue y a la mezcla de bizcochuelo y crema, que le hacía recordar a un pájaro Chajá. El ave es grande como un pavo (entre 80 a 90 cmts.), de plumas grisáceas, herbívora, anida en los pantanos, es fácil de domesticar, se usa como guardián en los ranchos emitiendo un fuerte chillido ante el peligro y posee espolones duros en sus alas </p>
+<p> Los componentes tradicionales del postre son bizcochuelo, crema y merengue, y sus frutas características son el durazno y la frutilla, existiendo variantes con el dulce de leche, chocolate o ananá. Actualmente, la receta esencialmente es secreta y solo la sabe la familia del inventor gracias a la división de trabajo en la fábrica: cada sección elabora una parte hasta el empaquetado y nadie conoce el proceso completo. Los integrantes de la familia, que van por la cuarta generación (representada hoy por Alfonso Nardini), comienzan trabajando en la cocina desde chicos y luego pasan a la administración. A pesar de la tecnología, no hay máquina capaz de armarlo manteniendo su forma original, por lo que se sigue elaborando artesanalmente. </p>
+<p> A lo largo de los años, su éxito ha generado hitos muy importantes: es considerado un bien de interés patrimonial e inmaterial por el departamento de Paysandú; el ministerio de Turismo de Uruguay y el instituto Uruguay XXI le concedieron la licencia de uso de la marca país ”Uruguay Natural” para promocionar la imagen del país y fomentar exportaciones; en 2023, fue reconocido por el sitio especializado TasteAtlas en el puesto 30 de los mejores 50 postres del mundo con una clasificación de 4.3 sobre 5; y su fama inspiró en 1995 la creación del famoso postre Balcarce en Argentina, luego Guillermo Talou conociera el chajá en un viaje.
+ </p>
+<p> Se puede considerar que el postre Chajá es una obra maestra de la repostería rioplatense porque logra una combinación perfecta entre simpleza y grandeza. Lo más admirable es como una preparación nacida de la necesidad de conservación en 1927 ha sabido mantener intacta su esencia artesanal y su receta a lo largo de cuatro generaciones. Se puede decir que su verdadero éxito radica en que el secreto de su receta original se ha custodiado por décadas dentro de la familia; ese misterio es algo único que nadie ha logrado imitar. La importancia del Chaja ha trascendido fronteras gracias a la perfecta armonía entre el merengue, el bizcochuelo y el durazno, una combinación de texturas que conquista cualquier paladar. Esto , sumado a un diseño pensado para resistir los traslados sin perder la calidad, le permitió viajar desde Paysandú hacia el mundo. 
+ </p>
+<p> Es un orgullo que un producto tan auténticamente local represente nuestra identidad cultural, demostrando que la tradición familiar puede competir con los más altos estándares internacionales.Esto nos demuestra que las grandes genialidades nacen de la simplicidad cotidiana. Su historia es un recordatorio de que cuando un legado se protege con pasión y lealtad , es capaz de derribar cualquier frontera y volverse eterno. </p>
+<p> En conclusión, el Chajá no es solo un  bizcochuelo, crema, merengue y fruta; es un relato vivo de identidad, pertenencia y tradición que ha trascendido fronteras. Desde su nacimiento en una pequeña confitería de Paysandú hasta consolidarse como marca país y posicionarse entre las mejores tortas del mundo, este manjar sigue conquistando paladares gracias a su ligereza y sabor inigualable. Siempre fue imitado pero nunca fue igualado este fue el eslogan para distinguir el postre chaja de cualquier imitación.Representa la belleza de lo esencial como la unión armoniosa de los elementos simples pueden crear una experiencia universal que conecta a los seres humanos de distintas culturas.El postre nace como un acto de resistencia y adaptación es una solución inteligente que logra durar, viajar y conservar su autenticidad a pesar de las adversidades del entorno. Tal como dice la  conocida frase “un turista que viene, un Chajá que se va”, asegurando que el legado siga volando muy alto. </p>
 
 <section class="article-section article-sources">
 
 <h2> FUENTES DE INFORMACIÓN </h2>
 
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://es.wikipedia.org/wiki/Chaj%C3%A1_(postre)">Wikipedia</a><p></li></ul>
+<ul><li><p><a href="https://www.canal26.com/historia/2026/06/13/la-historia-de-la-torta-chaja-como-nacio-el-postre-uruguayo-mas-esponjoso-que-conquisto-el-rio-de-la-plata/">canal26</a><p></li></ul>
+<ul><li><p><a href="https://www.elobservador.com.uy/nota/un-postre-uruguayo-fue-elegido-como-una-de-las-30-mejores-tortas-del-mundo-202321113028">el observador</a><p></li></ul>
+<ul><li><p><a href="https://www.elentrerios.com/actualidad/tras-92-aos-de-historia-el-postre-chaj-es-marca-pas-en-el-uruguay.htm">entre rios</a><p></li></ul>
+<ul><li><p><a href="https://www.lr21.com.uy/comunidad/153594-%c2%bfquien-invento-el-postre-chaja#google_vignette">La red 21</a><p></li></ul>
+<ul><li><p><a href="https://imagenes.montevideo.com.uy/imgnoticias/202302/_W880_H495/833747.jpg">Wikimedia Commons</a><p></li></ul>
+<ul><li><p><a href="https://media.elentrerios.com/fotos-v2/2018/10/13/l_1539426980.jpg
+
 
 </section>
 `,
   },
   {
     id: 3,
+    imagen: "asado.webp",
     titulo: "400 AÑOS DE ASADO EN URUGUAY",
     autor: "Santiago Narez",
     categoria: "Asado",
@@ -108,18 +123,33 @@ const articulos = [
     autor: "Pablo Ortiz",
     categoria: "Alfajor",
     descripcion: `
-<p> PARRAFO 1</p>
-<p> PARRAFO 2 </p>
-<p> PARRAFO 3 </p>
+<p>Existen alimentos que parecen sencillos, casi cotidianos pero que guardan una historia mucho más profunda de lo que se ve a simple vista. El alfajor es uno de ellos, está presente tanto en el kiosco de la esquina como en la merienda de la escuela y también en la vida diaria, y sin embargo no es una golosina más. Detrás de su forma redonda y su relleno dulce, existe un largo recorrido histórico y cultural que empezó lejos de Uruguay, navegando por siglos y océanos hasta el día de hoy que se convirtió en parte de nuestra identidad.
+</p>
+<p>El origen del alfajor suele vincularse con la tradición árabe que pasó a la península ibérica  durante la presencia musulmana en España. Algunas fuentes comentan que su nombre proviene del árabe hispano referenciando al relleno  “al hasú“ (palabra proveniente del árabe andalusí ) un rasgo que sigue siendo esencial al día de hoy.</p>
+<p> Con el paso de los años esta preparación fue cambiando, adaptando ingredientes y gustos hasta llegar a América, donde adquirió nuevas formas. Más que una receta fija el alfajor parece ser una prueba de que las tradiciones sobreviven porque pueden transformarse y evolucionar logrando transportarnos varios siglos al pasado
+</p>
+<p> En América latina el alfajor se transformó de manera diferente según cada región, pero en Uruguay encontró una presencia fuerte dejando de ser solamente un dulce o golosina para pasar a ser un producto de la vida cotidiana. No es casualidad que la mayoría  lo identifiquen como uno de los productos típicos del país ni que sea considerado tan frecuentemente como regalo cuando alguien viaja hacia otros destinos. Este gesto no solo significa compartir algo rico sino transmitir una experiencia, un lugar y una pequeña y dulce parte de nuestra cultura local.
+ </p>
+<p> Dentro de la historia uruguaya tiene un lugar importante la tradicional marca Las Sierras de Minas, fundada en la ciudad de Minas en 1953 por Conrado Cedrés. Varias fuentes la destacan como la primera fábrica de alfajores del Uruguay la cual tuvo peso en la construcción de la identidad del alfajor a nivel local. Tanto así que en Lavalleja existe un museo dedicado enteramente al alfajor, reforzando la idea de que no se trata únicamente de un producto comercial sino de un objeto cultural que merece ser conservado y recordado. Cuando un alimento llega a ese punto deja de pertenecer al ámbito del consumo y pasa a formar parte de la memoria colectiva.
+ </p>
+<p> Esa importancia no se explica únicamente por la antigüedad de su historia. También se entiende por la manera que el alfajor acompaña escenas comunes de la vida diaria. Puede aparecer en una merienda compartida, en una parada de ruta, en una bolsa de regalos o en una charla o debate sobre cuál es el mejor o el perfecto. Su valor no está solo en el sabor sino en todo lo que lo rodea como la costumbre, el cariño, el recuerdo o hasta la expectativa de probar uno distinto. Por esto el alfajor es uno de esos objetos cotidianos que sin proponérselo termina diciendo mucho sobre la forma en que una sociedad vive y transmite sus hábitos. El paso del tiempo hizo que estas costumbres dieran a luz un mercado muy variado. La oferta actual nos permite saborear la calidez de una receta artesanal o experimentar con baños de reposteria que estallan en colores crujientes.Cada persona se enfrenta entonces a un abanico de posibilidades que muta constantemente transformando la visita al super o al kiosco en una coreografía silenciosa de selección </p>
+<p> Por eso hablar del origen del alfajor es hablar más que de un dulce o postre, es hablar de un producto que nació en otro contexto, cruzó fronteras se transformó con el tiempo y encontró en Uruguay una manera propia de permanecer y ser parte de la propia identidad. Es hablar de una tradición que sigue viva no solo por que se sigue fabricando y consumiendo todos los días, sino porque continúa ocupando un lugar en la memoria colectiva, en las costumbres. Tal vez eso nos demuestra su verdadero valor y nos invita a preguntarnos si algunas cosas aparentemente pequeñas pueden guardar dentro de sí una historia mucho más grande de lo que parece.</p>
+
 
 <section class="article-section article-sources">
 
-<h2> FUENTES DE INFORMACIÓN </h2>
+<h2> Bibliografía </h2>
 
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="URL DE LA FUENTE">NOMBRE DE LA FUENTE</a><p></li></ul>
-
+ <ul><li><p><a href="https://es.wikipedia.org/wiki/Alfajor_(Latinoam%C3%A9rica)">Alfajor (Latinoamérica) - Wikipedia</a><p></li></ul>
+ <ul><li><p><a href="https://alfajoresdeluruguay.com.uy/">Alfajores del Uruguay
+</a><p></li>
+<li><p><a href="https://www.clarin.com/gourmet/origen-alfajor-hace-pais_0_CisPblcXap.html">El verdadero origen del alfajor: dónde se inventó y cómo se hace en cada país - Clarín</a><p></li></ul>
+<ul><li><p><a href="https://amec.uy/blog/cultura/el-origen-de-los-alfajores/">El origen de los Alfajores - Amec</a><p></li></ul>
+<ul><li><p><a href="https://mundialdelalfajor.com/historia-del-alfajor/">Historia del alfajor - Mundial del Alfajor</a><p></li></ul>
+<ul><li><p><a href="https://www.elpais.com.uy/el-empresario/la-historia-detras-del-primer-alfajor-uruguayo-un-amor-vision-comercial-y-un-producto-que-perduro-70-anos">La historia detrás del primer alfajor uruguayo - El País</a><p></li></ul>
+<ul><li><p><a href="https://eventurismo.com.uy/la-importancia-del-alfajor-como-presente-para-el-regreso-del-turista-y-su-identificacion-con-la-localidad/">La importancia del alfajor como presente - Eventurismo</a><p></li></ul>
+<ul><li><p><a href="https://lavalleja.uy/bienestar-y-espiritualidad/museo-del-alfajor/">Museo del Alfajor - Lavalleja</a><p></li></ul>
+<ul><li><p><a href="https://uruguaynatural.com/es/experiences/una-dulce-tentacion-para-deleitar-en-uruguay-el-alfajor/">Una dulce tentación para deleitar en Uruguay: el alfajor - Uruguay Natural</a><p></li></ul>
 </section>
 `,
   },
