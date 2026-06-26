@@ -57,7 +57,7 @@ const articulos = [
 
 <section class="article-section article-sources">
 
-<h2> FUENTES DE INFORMACIÓN </h2>
+    <h2> FUENTES DE INFORMACIÓN </h2>
 
 <ul><li><p><a href="https://es.wikipedia.org/wiki/Chaj%C3%A1_(postre)">Wikipedia</a><p></li></ul>
 <ul><li><p><a href="https://www.canal26.com/historia/2026/06/13/la-historia-de-la-torta-chaja-como-nacio-el-postre-uruguayo-mas-esponjoso-que-conquisto-el-rio-de-la-plata/">canal26</a><p></li></ul>
@@ -65,7 +65,7 @@ const articulos = [
 <ul><li><p><a href="https://www.elentrerios.com/actualidad/tras-92-aos-de-historia-el-postre-chaj-es-marca-pas-en-el-uruguay.htm">entre rios</a><p></li></ul>
 <ul><li><p><a href="https://www.lr21.com.uy/comunidad/153594-%c2%bfquien-invento-el-postre-chaja#google_vignette">La red 21</a><p></li></ul>
 <ul><li><p><a href="https://imagenes.montevideo.com.uy/imgnoticias/202302/_W880_H495/833747.jpg">Wikimedia Commons</a><p></li></ul>
-<ul><li><p><a href="https://media.elentrerios.com/fotos-v2/2018/10/13/l_1539426980.jpg
+<ul><li><p><a href="https://media.elentrerios.com/fotos-v2/2018/10/13/l_1539426980.jpg">entre rios fotos</a><p></li></ul>
 
 
 </section>
