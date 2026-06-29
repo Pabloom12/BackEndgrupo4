@@ -61,14 +61,14 @@ Que a pesar de su sencillez tienen un sabor único y son ideales para los días 
 
 <h2> FUENTES DE INFORMACIÓN </h2>
 
-<ul><li><p><a href="https://amec.com.uy/blog/cultura/el-origen-de-la-torta-frita/">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="https://www.clarin.com/informacion-general/fiesta-nacional-torta-frita-2026-conseguir-entradas_0_8kUMtzGhMa.html">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="https://www.cocina-uruguaya.com/articulos/los-datos-que-no-conocias-version-torta-frita-uruguaya">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="https://www.gub.uy/ministerio-turismo/comunicacion/calendario-actividades/13o-fiesta-torta-frita">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="https://grupormultimedio.com/las-torta-fritas-una-tradicion-uruguaya-id138336/">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="https://www.todouruguay.net/lluvia-mate-y-tortas-fritas/">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="https://turismo.imcanelones.gub.uy/visita-canelones/que-hacer/fiestas/fiesta-torta-frita">NOMBRE DE LA FUENTE</a><p></li></ul>
-<ul><li><p><a href="https://cousa.com/tortas-fritas/">NOMBRE DE LA FUENTE</a><p></li></ul>
+<ul><li><p><a href="https://amec.com.uy/blog/cultura/el-origen-de-la-torta-frita/">ORIGEN</a><p></li></ul>
+<ul><li><p><a href="https://www.clarin.com/informacion-general/fiesta-nacional-torta-frita-2026-conseguir-entradas_0_8kUMtzGhMa.html">FESTIVAL</a><p></li></ul>
+<ul><li><p><a href="https://www.cocina-uruguaya.com/articulos/los-datos-que-no-conocias-version-torta-frita-uruguaya">DATOS CURIOSOS</a><p></li></ul>
+<ul><li><p><a href="https://www.gub.uy/ministerio-turismo/comunicacion/calendario-actividades/13o-fiesta-torta-frita">DIA DE LA TORTA FRITA</a><p></li></ul>
+<ul><li><p><a href="https://grupormultimedio.com/las-torta-fritas-una-tradicion-uruguaya-id138336/">COSTUMBRE</a><p></li></ul>
+<ul><li><p><a href="https://www.todouruguay.net/lluvia-mate-y-tortas-fritas/">MOMENTOS DE CONSUMO</a><p></li></ul>
+<ul><li><p><a href="https://turismo.imcanelones.gub.uy/visita-canelones/que-hacer/fiestas/fiesta-torta-frita">FESTIVAL Y UBICACION</a><p></li></ul>
+<ul><li><p><a href="https://cousa.com/tortas-fritas/">RECETA</a><p></li></ul>
 
 </section>
 `,
