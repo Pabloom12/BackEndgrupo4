@@ -15,6 +15,7 @@ app.use(express.static(path.join(__dirname, "public")));
 const articulos = [
   {
     id: 1,
+    imagen: "torta.png",
     titulo: "Torta frita un sabor que une a los uruguayos",
     autor: "Lusmila Lanusse",
     categoria: "Categoria",
